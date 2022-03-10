@@ -3,14 +3,14 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <artifactId>born-middleware</artifactId>
+        <artifactId>middleware</artifactId>
         <groupId>com.telecom.middleware</groupId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <groupId>com.telecom.middleware.gateway</groupId>
-    <artifactId>born-middleware-gateway</artifactId>
+    <artifactId>middleware-gateway</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>born-middleware-gateway</name>
+    <name>middleware-gateway</name>
     <description>网关服务</description>
     <packaging>jar</packaging>
     <dependencies>
