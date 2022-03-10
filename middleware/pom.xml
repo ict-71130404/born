@@ -8,9 +8,9 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
     <groupId>com.telecom.middleware</groupId>
-    <artifactId>born-middleware</artifactId>
+    <artifactId>middleware</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>born-middleware</name>
+    <name>middleware</name>
     <description>中间件相关服务</description>
     <packaging>pom</packaging>
 

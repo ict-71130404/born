@@ -25,6 +25,7 @@
     <modules>
         <module>born-auth-serv</module>
         <module>born-user-serv</module>
+        <module>middleware</module>
     </modules>
 
     <dependencyManagement>
