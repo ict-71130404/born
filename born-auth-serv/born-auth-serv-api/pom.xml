@@ -8,7 +8,7 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <groupId>com.telecom.auth.api</groupId>
-    <artifactId>api</artifactId>
+    <artifactId>born-auth-serv-api</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>born-auth-serv-api</name>
     <description>认证api服务</description>

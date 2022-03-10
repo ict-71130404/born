@@ -14,5 +14,8 @@
     <packaging>pom</packaging>
     <description>认证服务</description>
 
-
+    <modules>
+        <module>born-auth-serv-api</module>
+        <module>born-auth-serv-impl</module>
+    </modules>
 </project>

@@ -14,6 +14,8 @@
     <description>中间件相关服务</description>
     <packaging>pom</packaging>
 
-
+    <modules>
+        <module>gateway</module>
+    </modules>
 
 </project>
